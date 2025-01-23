@@ -1,6 +1,7 @@
 <script lang="ts">
-   import Counter from "./lib/Counter.svelte";
+  //  import Counter from "./lib/Counter.svelte";
+  import { TextCompany } from "./components/text";
 </script>
 <main>
-  <Counter/>
+  <TextCompany/>
 </main>

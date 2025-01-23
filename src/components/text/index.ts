@@ -1,0 +1,1 @@
+export {default as TextCompany} from './text.svelte'
