@@ -5,6 +5,7 @@
   import {AddStyle} from './components/add-style';
   import { Conditions } from "./components/condition";
   import { ListAndKey } from "./components/list-key";
+  import {Event} from "./components/event";
 
 </script>
 <main>
@@ -15,5 +16,6 @@
     <AddStyle/>
     <Conditions/>
     <ListAndKey/>
+    <Event/>
   </div>
 </main>
