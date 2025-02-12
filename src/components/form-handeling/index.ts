@@ -1,0 +1,1 @@
+export {default as FormHandeling} from './form-handeling.svelte';
