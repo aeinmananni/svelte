@@ -4,5 +4,8 @@ export type FormTypes ={
      userName:string;
      password:string;
      provinse:string;
-     skills:string[]
+     skills:string[];
+     remoteWork?:boolean;
+     favirites?:string[];
+     yearsOfExperience:string
 }
